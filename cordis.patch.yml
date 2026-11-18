@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-gpu-fan
+      name: '@local/dsh-gpu-fan'
